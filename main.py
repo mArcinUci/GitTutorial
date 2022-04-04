@@ -1,5 +1,5 @@
 lista_zakupów = {
-    'piekarnia': ['Chleb', 'Pączek', 'Bułki'],
+    'piekarnia': ['Chleb', 'Croissant', 'Bułki'],
     'warzywniak': ['Marchew', 'Seler', 'Rukola']
     }
 print(lista_zakupów)
