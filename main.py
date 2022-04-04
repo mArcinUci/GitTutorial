@@ -3,4 +3,4 @@ lista_zakupów = {
     'warzywniak': ['Marchew', 'Seler', 'Rukola']
     }
 print(lista_zakupów)
-print("nie jestem pewien czy siępoprzednie zmiany tiu zapisały")
+print("nie jestem pewien czy się poprzednie zmiany tu zapisały")
